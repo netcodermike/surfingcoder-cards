@@ -1,6 +1,6 @@
 # SurfingCoder Cards
 
-Play Surf Solitaire solo or face the computer in Crazy Eights. Both games feature wave, fin, surfboard, and sunset illustrations on the cards. Standard suit symbols and ranks appear in each corner. In Crazy Eights, two long-haired surfer Jokers join the eights as wild cards.
+Play Surf Solitaire solo or face the computer in Gnarly Eights. Both games feature wave, fin, surfboard, and sunset illustrations on the cards. Standard suit symbols and ranks appear in each corner. In Gnarly Eights, two long-haired surfer Jokers join the eights as wild cards.
 
 [Play SurfingCoder Cards](https://surfingcoder.com/cards/)
 
@@ -9,7 +9,7 @@ Play Surf Solitaire solo or face the computer in Crazy Eights. Both games featur
 ## Rules
 
 - **Surf Solitaire.** Uses Golf Solitaire rules. Clear the seven columns by playing an exposed card one rank away from the waste card. Aces and kings do not wrap. Draw from the stock when you need a new waste card.
-- **Crazy Eights.** Match the current suit or top rank, or play a wild card and choose the next suit. Draw once when you cannot play. The discard pile is recycled when needed. If neither player can play or draw, the smaller hand wins.
+- **Gnarly Eights.** Match the current suit or top rank, or play a wild card and choose the next suit. Draw once when you cannot play. The discard pile is recycled when needed. If neither player can play or draw, the smaller hand wins.
 
 ## Run locally
 

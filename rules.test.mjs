@@ -16,7 +16,7 @@ test('Golf deals 35 exposed and covered cards and advances only adjacent ranks',
   assert.equal(game.stock.length,15)
 })
 
-test('Crazy Eights deals two surfer Jokers and playing one sets the active suit', () => {
+test('Gnarly Eights deals two surfer Jokers and playing one sets the active suit', () => {
   const game = newEights(() => .5)
   assert.equal([...game.player,...game.computer,...game.stock,...game.discard].filter(c=>c.rank===0).length,2)
   game.player = [{rank:0,suit:'joker'},{rank:7,suit:'hearts'}]
